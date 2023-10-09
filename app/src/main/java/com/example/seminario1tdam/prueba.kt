@@ -43,6 +43,7 @@ fun ej6( subcadena:String, texto:String ){
                 }
                 j++
             }
+
             if (j == subcadena.length){
                 contador++
             }
